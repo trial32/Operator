@@ -17,3 +17,10 @@ if (checkSame && isSuccess)
     Console.WriteLine("GOOD");
     else
     Console.WriteLine("BAD");
+
+    string str="150";
+
+    int intStr = int.Parse(str);
+
+    byte b = byte.Parse(str);
+    
